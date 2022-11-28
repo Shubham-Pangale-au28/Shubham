@@ -1,0 +1,44 @@
+.App {
+  text-align: left;
+  height: 1900px;
+}
+
+.App-header {
+  color: white;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Item {
+  display: flex;
+  justify-content: space-between;
+  border: 3px solid rgb(22, 20, 20);
+  padding: 10px;
+  color: white;
+  border-radius: 15px;
+  box-shadow: 2px 5px 8px 3px rgb(238, 138, 56);
+}
+.Form {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgb(22, 20, 20);
+  padding: 10px;
+  /* background-color: rgb(233, 224, 212); */
+  border-radius: 10px;
+  box-shadow: 2px 3px 8px 2px rgb(181, 219, 120);
+}
+.labal {
+  font-size: 40px;
+  text-shadow: 2px 4px 3px brown;
+  color: white;
+}
+.textcolor {
+  color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+}
